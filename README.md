@@ -1,4 +1,4 @@
-# Ahoy Mix - Collider.JAM Hello World Variations
+# Ahoy Mix - Collider.JAM Shapes of "Hello World"
 
 Ever since the classic K&R C book, "Hello World" has remained the first program to try when learning a new programming language.
 
@@ -11,8 +11,10 @@ Each ```.mod``` folder contains a separate form of "hello". To run any of them, 
 jam
 ```
 
+## Included Examples
 
-
-
-
+* the-simplest-one.mod - just an empty folder you can still run and explore
+* background.mod - sets the background color
+* circle.mod - draws a circle in the center of the screen
+* text.mod - draws a text label with the selected font
 

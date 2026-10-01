@@ -1,0 +1,13 @@
+# collider.jam
+out
+dist
+types.ts
+*.cache
+
+# jeddy
+.stat
+.jeddy
+
+# MacOS X
+*.DS_Store
+
