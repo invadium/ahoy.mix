@@ -1,0 +1,6 @@
+This file is here only because we need something in the directory to include it in the git repo. Git works only with files, so it is impossible to include an empty dir.
+
+Otherwise, this file can be deleted, and "the-simplest-one.mod" will work just fine.
+
+
+
